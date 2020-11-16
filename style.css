@@ -1,0 +1,15 @@
+h2, li {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+li {
+    font-size: 30px;
+    width: 400px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.comedy {background-color: #9e7bff}
+.fantasy {background-color: #38acec}
+.historical {background-color: #52d017}
+.horror {background-color: #ffea00}
